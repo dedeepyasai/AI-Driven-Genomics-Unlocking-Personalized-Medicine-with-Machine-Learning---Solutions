@@ -1,0 +1,10 @@
+Write a function to preprocess genomic data for machine learning tasks.
+Implement a script to perform feature selection on genomic data using mutual information.
+Create a function to build and evaluate a simple classification model for disease prediction.
+Write a program to perform cross-validation on a machine learning model for drug response prediction.
+Implement a function to handle class imbalance in genomic datasets.
+Create a script to build an ensemble model for predicting patient outcomes.
+Write a function to interpret feature importance in a trained machine learning model.
+Implement a program to perform hyperparameter tuning for a machine learning model.
+Create a function to build a simple neural network for genomic data analysis.
+Write a script to perform transfer learning using pre-trained models on genomic data.

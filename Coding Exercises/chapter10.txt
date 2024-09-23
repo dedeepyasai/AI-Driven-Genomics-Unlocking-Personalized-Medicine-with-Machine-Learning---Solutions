@@ -1,0 +1,10 @@
+Write a function to anonymize genomic data by removing personal identifiers.
+Implement a script to manage patient consent for different types of genomic studies.
+Create a function to encrypt sensitive genomic data for secure storage.
+Write a program to implement differential privacy when sharing aggregate genomic data.
+Implement a function to track data access and usage in a genomic database.
+Create a script to ensure compliance with data retention policies for genomic information.
+Write a function to generate a data sharing agreement for collaborative genomic research.
+Implement a program to detect potential re-identification risks in anonymized genomic data.
+Create a function to manage withdrawal of consent and data deletion requests.
+Write a script to perform an automated ethics review for a genomic research proposal.

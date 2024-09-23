@@ -1,0 +1,10 @@
+Write a function to calculate the average DNA methylation level across a genomic region.
+Implement a script to identify differentially methylated regions (DMRs) between two conditions.
+Create a function to visualize DNA methylation patterns as a heatmap.
+Write a program to classify CpG islands based on their methylation status.
+Implement a function to integrate DNA methylation data with gene expression data.
+Create a script to perform peak calling on ChIP-seq data for histone modifications.
+Write a function to calculate the enrichment of histone modifications around transcription start sites.
+Implement a program to identify bivalent chromatin domains (regions with both activating and repressing histone marks).
+Create a function to predict enhancer regions based on histone modification patterns.
+Write a script to simulate DNA methylation data for a set of genomic regions.

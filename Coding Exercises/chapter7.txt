@@ -1,0 +1,10 @@
+Write a function to calculate the distance between two amino acids in a protein structure.
+Implement a script to identify potential binding pockets on a protein surface.
+Create a function to calculate the Root Mean Square Deviation (RMSD) between two protein structures.
+Write a program to perform a simple molecular docking simulation.
+Implement a function to predict protein secondary structure from amino acid sequence.
+Create a script to visualize protein-ligand interactions.
+Write a function to calculate the hydrophobicity profile of a protein sequence.
+Implement a program to generate conformers of a small molecule.
+Create a function to calculate the electrostatic potential on a protein surface.
+Write a script to perform virtual screening of a compound library against a protein target.

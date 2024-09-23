@@ -1,0 +1,10 @@
+Write a function to predict the amino acid change caused by a single nucleotide variant.
+Implement a script to classify variants as coding or non-coding based on their genomic location.
+Create a function to identify variants that fall within known regulatory regions (e.g., promoters, enhancers).
+Write a program to calculate the SIFT score for missense variants (you may simulate the score calculation).
+Implement a function to determine if a variant causes a frameshift in a coding sequence.
+Create a script to annotate variants with their associated gene names using a gene coordinate file.
+Write a function to predict the impact of splice site variants on intron-exon boundaries.
+Implement a program to identify variants that create or destroy transcription factor binding sites.
+Create a function to calculate the conservation score for a genomic position across multiple species.
+Write a script to integrate annotations from multiple sources (e.g., gene impact, conservation, regulatory regions) for each variant.

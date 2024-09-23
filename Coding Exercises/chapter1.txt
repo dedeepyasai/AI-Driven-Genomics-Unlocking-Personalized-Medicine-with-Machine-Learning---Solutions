@@ -1,0 +1,10 @@
+Write a function to count the number of sequences in a FASTQ file.
+Create a script to calculate the GC content of sequences in a FASTA file.
+Implement a function to convert a FASTQ file to a FASTA file.
+Write a program to find the longest sequence in a FASTA file.
+Create a function to calculate the N50 statistic for a set of sequences.
+Implement a script to filter out low-quality reads from a FASTQ file based on a quality score threshold.
+Write a program to compare two FASTA files and identify common sequences.
+Create a function to reverse complement a DNA sequence.
+Implement a script to split a large FASTA file into smaller files with a specified number of sequences.
+Write a program to calculate the distribution of read lengths in a FASTQ file.

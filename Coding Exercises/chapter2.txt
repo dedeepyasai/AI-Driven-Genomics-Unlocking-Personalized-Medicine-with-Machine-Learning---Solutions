@@ -1,0 +1,10 @@
+Write a function to parse a VCF file and extract basic variant information.
+Implement a script to calculate allele frequencies from a VCF file.
+Create a function to filter variants based on quality scores.
+Write a program to identify variants that are unique to one sample when comparing multiple VCF files.
+Implement a function to annotate variants with their predicted effect (e.g., synonymous, missense, nonsense).
+Create a script to generate a consensus sequence from a reference genome and a VCF file.
+Write a function to calculate transition/transversion ratio from a set of variants.
+Implement a program to identify regions of high variant density in a genome.
+Create a function to convert genomic coordinates to gene-relative coordinates for a given set of variants.
+Write a script to simulate a simple variant calling process, including generating mock read data with errors.

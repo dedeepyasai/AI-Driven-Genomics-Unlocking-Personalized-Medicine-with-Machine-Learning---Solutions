@@ -1,0 +1,10 @@
+Write a function to normalize RNA-seq count data using the TPM (Transcripts Per Million) method.
+Implement a script to identify differentially expressed genes between two conditions using a simple t-test.
+Create a function to perform Gene Ontology (GO) enrichment analysis on a set of genes.
+Write a program to cluster gene expression data using the k-means algorithm.
+Implement a function to visualize gene expression data as a heatmap.
+Create a script to perform principal component analysis (PCA) on gene expression data.
+Write a function to calculate the correlation between gene expression levels and a continuous phenotype.
+Implement a program to identify co-expressed gene modules using weighted gene co-expression network analysis (WGCNA).
+Create a function to perform pathway analysis using gene expression data.
+Write a script to simulate RNA-seq count data for a differential expression analysis.

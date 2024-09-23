@@ -1,0 +1,10 @@
+Write a function to create a protein-protein interaction network from a list of interactions.
+Implement a script to calculate basic network metrics (degree, betweenness centrality, clustering coefficient).
+Create a function to identify network motifs in a biological network.
+Write a program to perform Gene Set Enrichment Analysis (GSEA) on a ranked list of genes.
+Implement a function to visualize a biological network using a force-directed layout.
+Create a script to identify and analyze network modules using community detection algorithms.
+Write a function to simulate a simple gene regulatory network.
+Implement a program to perform flux balance analysis on a metabolic network.
+Create a function to infer a gene regulatory network from gene expression data.
+Write a script to perform a sensitivity analysis on a systems biology model.
