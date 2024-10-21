@@ -8,3 +8,8 @@ Write a program to compare two FASTA files and identify common sequences.
 Create a function to reverse complement a DNA sequence.
 Implement a script to split a large FASTA file into smaller files with a specified number of sequences.
 Write a program to calculate the distribution of read lengths in a FASTQ file.
+Implement a function to simulate long-read sequencing data, including typical error profiles.
+Create a simple genomic data compression algorithm using run-length encoding.
+Write a script to anonymize personal identifiers in a genomic dataset while preserving necessary metadata.
+Develop a function to calculate and visualize the quality scores distribution for a FASTQ file.
+Implement a basic error correction algorithm for long-read sequencing data.

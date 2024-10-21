@@ -8,3 +8,8 @@ Write a function to calculate the enrichment of histone modifications around tra
 Implement a program to identify bivalent chromatin domains (regions with both activating and repressing histone marks).
 Create a function to predict enhancer regions based on histone modification patterns.
 Write a script to simulate DNA methylation data for a set of genomic regions.
+Implement a function to perform peak calling on ATAC-seq data and visualize the distribution of peaks relative to transcription start sites.
+Create a script to analyze Hi-C data and identify topologically associating domains (TADs) using the insulation score method.
+Develop a program to calculate and visualize A/B compartments from Hi-C data using principal component analysis.
+Write a function to implement a basic epigenetic clock model using DNA methylation data and chronological age information.
+Implement a script to integrate chromatin accessibility data with long-range interaction data to identify potential enhancer-promoter interactions.

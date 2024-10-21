@@ -8,3 +8,8 @@ Write a function to simulate a simple gene regulatory network.
 Implement a program to perform flux balance analysis on a metabolic network.
 Create a function to infer a gene regulatory network from gene expression data.
 Write a script to perform a sensitivity analysis on a systems biology model.
+Implement a function to create a multi-scale model that integrates gene regulatory networks with population dynamics.
+Develop a script to perform flux balance analysis on a given metabolic network and visualize the flux distributions.
+Create a function to integrate transcriptomics and proteomics data into a protein-protein interaction network and identify modules of coordinated activity.
+Write a program to simulate a multi-scale model of tumor growth, incorporating cellular, tissue, and organ-level dynamics.
+Implement a method to perform sensitivity analysis on a multi-omics network model, identifying key nodes and interactions that influence system behavior.

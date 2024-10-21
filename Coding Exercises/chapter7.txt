@@ -8,3 +8,8 @@ Write a function to calculate the hydrophobicity profile of a protein sequence.
 Implement a program to generate conformers of a small molecule.
 Create a function to calculate the electrostatic potential on a protein surface.
 Write a script to perform virtual screening of a compound library against a protein target.
+Implement a function to perform fragment growing by connecting a core fragment with a library of smaller fragments, considering geometric constraints.
+Create a script to calculate quantum mechanical descriptors (e.g., HOMO-LUMO energies, dipole moment) for a set of small molecules using an appropriate quantum chemistry package.
+Develop a basic generative model (e.g., a character-level RNN) for generating SMILES strings of drug-like molecules.
+Write a program to perform a simple QM/MM calculation on a protein-ligand complex, treating the ligand quantum mechanically and the protein with molecular mechanics.
+Implement a reinforcement learning algorithm to optimize generated molecules towards desired properties.

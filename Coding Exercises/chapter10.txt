@@ -8,3 +8,8 @@ Write a function to generate a data sharing agreement for collaborative genomic 
 Implement a program to detect potential re-identification risks in anonymized genomic data.
 Create a function to manage withdrawal of consent and data deletion requests.
 Write a script to perform an automated ethics review for a genomic research proposal.
+Implement a function to simulate the spread of a gene drive in a population, considering ethical implications.
+Create a script to analyze the potential off-target effects of a CRISPR gene editing experiment.
+Develop a program to assess the societal impact of a proposed gene therapy, including considerations of equity and access.
+Write a function to generate a comprehensive ethical report for a gene editing proposal, incorporating multiple stakeholder perspectives.
+Implement a system to track and analyze global regulations on gene editing across different countries.

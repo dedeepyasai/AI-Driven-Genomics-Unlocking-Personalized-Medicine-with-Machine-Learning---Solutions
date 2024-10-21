@@ -8,3 +8,8 @@ Write a function to calculate the correlation between gene expression levels and
 Implement a program to identify co-expressed gene modules using weighted gene co-expression network analysis (WGCNA).
 Create a function to perform pathway analysis using gene expression data.
 Write a script to simulate RNA-seq count data for a differential expression analysis.
+Implement a function to perform basic quality control and preprocessing of scRNA-seq data, including cell and gene filtering based on expression thresholds.
+Create a script to identify cell types in scRNA-seq data using a combination of clustering and marker gene expression analysis.
+Develop a program to detect and quantify alternative splicing events from RNA-seq data, focusing on exon skipping events.
+Write a function to calculate and visualize the Percent Spliced In (PSI) values for a set of alternative splicing events across multiple samples.
+Implement a basic multi-omics integration workflow that correlates gene expression data with DNA methylation data and visualizes the results.

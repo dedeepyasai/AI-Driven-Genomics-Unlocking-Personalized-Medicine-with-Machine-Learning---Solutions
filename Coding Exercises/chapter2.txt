@@ -8,3 +8,8 @@ Write a function to calculate transition/transversion ratio from a set of varian
 Implement a program to identify regions of high variant density in a genome.
 Create a function to convert genomic coordinates to gene-relative coordinates for a given set of variants.
 Write a script to simulate a simple variant calling process, including generating mock read data with errors.
+Implement a function to detect potential structural variants using a read-pair approach. The function should identify read pairs with abnormal insert sizes or orientations.
+Create a simple machine learning model (e.g., using scikit-learn) to classify variants as benign or pathogenic based on features like conservation scores and allele frequencies.
+Develop a script to simulate the process of returning genetic results to participants, considering factors like variant pathogenicity, clinical actionability, and participant consent preferences.
+Implement a basic population stratification analysis to identify potential biases in a variant dataset, considering different ethnic groups or populations.
+Create a function to anonymize genetic data by replacing personally identifiable information with hash codes while preserving the ability to link related records.
